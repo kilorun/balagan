@@ -1,0 +1,104 @@
+{
+    "id": 7,
+    "title": "Movies",
+    "floor": 3,
+    "location": "Floor 3 - Entertainment",
+    "description": "State-of-the-art cinema complex featuring the latest blockbusters, VIP screening rooms, IMAX experiences, and fresh gourmet popcorn.",
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=800&q=80",
+    "status": "Open Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=800&q=80"
+    ]
+},
+{
+    "id": 8,
+    "title": "Sport",
+    "floor": 3,
+    "location": "Floor 3 - Fitness & Combat",
+    "description": "High-intensity training arena and specialized academies offering world-class coaching in mixed martial arts, boxing, and striking disciplines.",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=800&q=80",
+    "status": "Open Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1549476464-37392f717541?auto=format&fit=crop&w=800&q=80"
+    ]
+},
+{
+    "id": 1,
+    "title": "Grand Supermarket",
+    "floor": 1,
+    "location": "Floor 1 - Center",
+    "description": "A huge variety of food products, leading international brands, cleaning supplies, and everything your home needs under one roof.",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=800&q=80",
+    "status": "Open Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80"
+    ]
+},
+{
+    "id": 2,
+    "title": "Women's Lingerie",
+    "floor": 2,
+    "location": "Floor 2 - Fashion Wing",
+    "description": "Exclusive luxury women's lingerie collections, premium soft fabrics, delicate lace designs, and ultimate everyday comfort.",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80",
+    "status": "Closed Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80"
+    ]
+},
+{
+    "id": 3,
+    "title": "Global Travel & Tours",
+    "floor": 1,
+    "location": "Floor 1 - Atrium",
+    "description": "Plan your dream vacation, exclusive flight deals, luxury resort packages, guided worldwide tours, and travel insurance.",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80",
+    "status": "Open Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?auto=format&fit=crop&w=800&q=80"
+    ]
+},
+{
+    "id": 4,
+    "title": "Warm Boutique Bakery",
+    "floor": 0,
+    "location": "Main Entrance",
+    "description": "Artisanal sourdough breads, crispy French pastries, special cakes, and hot snacks baked fresh in stone ovens.",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "status": "Open Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=800&q=80"
+    ]
+},
+{
+    "id": 5,
+    "title": "Park-Pharm & Health",
+    "floor": 1,
+    "location": "Floor 1",
+    "description": "Advanced pharmacy, luxury international cosmetic brands, premium perfumes, and a complete health and medical center.",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+    "status": "Open Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    ]
+},
+{
+    "id": 6,
+    "title": "Green Leaf Organic Market",
+    "floor": 2,
+    "location": "Floor 2 - East",
+    "description": "100% organic fruits and vegetables, superfoods, gluten-free snacks, and natural wellness supplements.",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "status": "Open Now",
+    "backImages": [
+        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?auto=format&fit=crop&w=800&q=80"
+    ]
+},
