@@ -1,5 +1,5 @@
 {
     "what": "Hotels"
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
-    ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Travel/Stay/Hotels/Asia/Israel/Jerusalem_District/Jerusalem/data.txt?token=GHSAT0AAAAAAEQK5BOMRNGPOVK7V3CBIZYE2X3C3IQ"
+    ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Travel/Stay/Hotels/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
 },
