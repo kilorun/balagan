@@ -1,1 +1,15 @@
-
+{
+    "a": "Travel770"
+    ,"b": "Stay"
+    ,"c": "Hotels"
+    ,"d": "Asia"
+    ,"e": "Jerusalem_District"
+    ,"f": "Jerusalem"
+    ,"title": "Jerusalem Gold Hotel"
+    ,"address": [{"l":"en", "a":"Jaffa St 234, Jerusalem"},{"l":"he", "a":"רחוב יפו 234"}]
+    ,"lat":"31.7885"
+    ,"lng":"35.2014"
+    ,"rating":""
+    ,"stars":""
+    ,"image": "https://images.trvl-media.com/lodging/2000000/1150000/1144000/1143945/7176a768.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+},
