@@ -10,3 +10,9 @@
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Attractions/Asia/Israel/Haifa_District/Haifa/data.txt"
     ,"data":[]
 },
+{
+    "what": "Train_Stations"
+    ,"where": "Asia|Israel|Haifa_District|Haifa"
+    ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Train_Stations/Asia/Israel/Haifa_District/Haifa/data.txt"
+    ,"data":[]
+},
