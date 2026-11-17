@@ -14,7 +14,7 @@
     ,"rating": 8.9
     ,"distance": [
       {"k": "en", "v": "350 m from downtown"}
-      ,{"k": "he", "v": "770"}
+      ,{"k": "he", "v": "400 מ' מהמרכז"}
     ]
     ,"stars": "5"
     ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazE_FM3lnQ7qSrYU0JLxfSum0WdMjT2QaxXNuu3AsxA&s=10"
