@@ -1,16 +1,16 @@
 {
-    "id":"Bat_Galim_Train_Station_Haifa_Israel"
+    "id":"Bat_Gallim_Train_Station_Haifa_Israel"
     ,"name": [
-      {"k": "en", "v": "Bat Galim Train Station, Haifa, 3341231, Israel"}
+      {"k": "en", "v": "Bat Gallim Train Station, Haifa, 3525422, Israel"}
       ,{"k": "he", "v": "תחנת רכבת בת גלים"}
     ]
     ,"phone": [{"k": "w", "v": "770"}]
     ,"address": [
-      {"k": "en", "v": "HaShmona Train Station, Haifa, 3341231, Israel"}
+      {"k": "en", "v": "Bat Gallim Train Station, Haifa, 3525422, Israel"}
       ,{"k": "he", "v": "תחנת רכבת חיפה בת גלים, חיפה, 3341231, ישראל"}
     ]
-    ,"lat": 32.830696
-    ,"lng": 34.981867
+    ,"lat": 32.8304679
+    ,"lng": 34.9818742
     ,"rating": 0.0
     ,"distance": [
       {"k": "en", "v": ""}
