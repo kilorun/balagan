@@ -3,3 +3,8 @@
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Hotels/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
 },
+{
+    "what": "Attractions"
+    ,"where": "Asia|Israel|Haifa_District|Haifa"
+    ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Attractions/Asia/Israel/Haifa_District/Haifa/data.txt"
+},
