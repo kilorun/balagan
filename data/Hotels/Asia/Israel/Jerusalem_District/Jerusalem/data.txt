@@ -1,34 +1,255 @@
 {
-    "id": "place_1",
-    "index": 1,
-    "name": "מלון פרימיום ירושלים",
-    "nameEn": "Hotels 1 (ירושלים)",
-    "lat": 31.767398229465492,
-    "lng": 35.22779526634217,
-    "rating": "4.2",
-    "distance": "0.4 ק\"מ מהמרכז",
-    "stars": "★★★★"
+    "name": [
+      {"l": "en", "n": "Orient Jerusalem"},
+      {"l": "he", "n": "מלון אוריינט ירושלים"}
+    ],
+    "phone": "02-569-9090",
+    "lat": 31.765620,
+    "lng": 35.222710,
+    "rating": "9.0",
+    "distance": "1.2 ק\"מ מהמרכז",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107053530.jpg",
+    "address": [
+      {"l": "en", "a": "3 Emek Refaim St, Jerusalem"},
+      {"l": "he", "a": "עמק רפאים 3, ירושלים"}
+    ]
 },
 {
-    "id": "place_2",
-    "index": 2,
-    "name": "וולדורף רזידנס ירושלים",
-    "nameEn": "Hotels 2 (ירושלים)",
-    "lat": 31.771415450392368,
-    "lng": 35.232813561260784,
-    "rating": "4.3",
+    "name": [
+      {"l": "en", "n": "King David Hotel Jerusalem"},
+      {"l": "he", "n": "מלון המלך דוד ירושלים"}
+    ],
+    "phone": "02-620-8888",
+    "lat": 31.774431,
+    "lng": 35.222416,
+    "rating": "9.2",
+    "distance": "0.9 ק\"מ מהמרכז",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33055416.jpg",
+    "address": [
+      {"l": "en", "a": "23 King David St, Jerusalem"},
+      {"l": "he", "a": "המלך דוד 23, ירושלים"}
+    ]
+},
+{
+    "name": [
+      {"l": "en", "n": "Waldorf Astoria Jerusalem"},
+      {"l": "he", "n": "וולדורף אסטוריה ירושלים"}
+    ],
+    "phone": "02-542-3333",
+    "lat": 31.777242,
+    "lng": 35.221764,
+    "rating": "9.1",
+    "distance": "0.7 ק\"מ מהמרכז",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31201531.jpg",
+    "address": [
+      {"l": "en", "a": "26 Gershon Agron St, Jerusalem"},
+      {"l": "he", "a": "גרשון אגרון 26, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Mamilla Hotel"},
+      {"l": "he", "n": "מלון ממילא"}
+    ],
+    "phone": "02-548-2222",
+    "lat": 31.776602,
+    "lng": 35.222706,
+    "rating": "8.9",
     "distance": "0.8 ק\"מ מהמרכז",
-    "stars": "★★★★"
-},
-{
-    "id": "place_3",
-    "index": 3,
-    "name": "אאאא ירושלים",
-    "nameEn": "Hotels 2 (ירושלים)",
-    "lat": 31.871415450392368,
-    "lng": 35.332813561260784,
-    "rating": "4.6",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/25010620.jpg",
+    "address": [
+      {"l": "en", "a": "11 King Solomon St, Jerusalem"},
+      {"l": "he", "a": "שלמה המלך 11, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Inbal Jerusalem Hotel"},
+      {"l": "he", "n": "מלון ענבל ירושלים"}
+    ],
+    "phone": "02-675-6666",
+    "lat": 31.769974,
+    "lng": 35.223846,
+    "rating": "8.8",
+    "distance": "1.0 ק\"מ מהמרכז",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15015033.jpg",
+    "address": [
+      {"l": "en", "a": "3 Ze'ev Jabotinsky St, Jerusalem"},
+      {"l": "he", "a": "זאב ז'בוטינסקי 3, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "The David Citadel Hotel"},
+      {"l": "he", "n": "מלון מצודת דוד"}
+    ],
+    "phone": "02-621-1111",
+    "lat": 31.776735,
+    "lng": 35.224160,
+    "rating": "8.7",
+    "distance": "0.9 ק\"מ מהמרכז",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/55013000.jpg",
+    "address": [
+      {"l": "en", "a": "7 King David St, Jerusalem"},
+      {"l": "he", "a": "המלך דוד 7, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Dan Panorama Jerusalem"},
+      {"l": "he", "n": "דן פנורמה ירושלים"}
+    ],
+    "phone": "02-569-5695",
+    "lat": 31.772545,
+    "lng": 35.221524,
+    "rating": "8.3",
+    "distance": "1.1 ק\"מ מהמרכז",
+    "stars": "★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/44122001.jpg",
+    "address": [
+      {"l": "en", "a": "39 Keren HaYesod St, Jerusalem"},
+      {"l": "he", "a": "קרן היסוד 39, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Herbert Samuel Jerusalem"},
+      {"l": "he", "n": "מלון הרברט סמואל ירושלים"}
+    ],
+    "phone": "02-560-0600",
+    "lat": 31.780135,
+    "lng": 35.219749,
+    "rating": "8.5",
+    "distance": "0.4 ק\"מ מהמרכז",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73318210.jpg",
+    "address": [
+      {"l": "en", "a": "25 Shamai St, Jerusalem"},
+      {"l": "he", "a": "שמאי 25, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "ibis Jerusalem City Center"},
+      {"l": "he", "n": "איביס ירושלים מרכז העיר"}
+    ],
+    "phone": "02-622-4111",
+    "lat": 31.781283,
+    "lng": 35.219808,
+    "rating": "8.4",
+    "distance": "0.3 ק\"מ מהמרכז",
+    "stars": "★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11250100.jpg",
+    "address": [
+      {"l": "en", "a": "4 Yitzhak Elisan St, Jerusalem"},
+      {"l": "he", "a": "יצחק אלישר 4, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Brown JLM Mamilla"},
+      {"l": "he", "n": "בראון JLM ממילא"}
+    ],
+    "phone": "02-536-1212",
+    "lat": 31.778841,
+    "lng": 35.219356,
+    "rating": "8.3",
+    "distance": "0.5 ק\"מ מהמרכז",
+    "stars": "★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/30015522.jpg",
+    "address": [
+      {"l": "en", "a": "41 Hillel St, Jerusalem"},
+      {"l": "he", "a": "הלל 41, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "The American Colony Hotel"},
+      {"l": "he", "n": "מלון אמריקן קולוני"}
+    ],
+    "phone": "02-627-9777",
+    "lat": 31.792437,
+    "lng": 35.228741,
+    "rating": "9.1",
     "distance": "1.8 ק\"מ מהמרכז",
-    "stars": "★★★★★"
-},
-
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22105151.jpg",
+    "address": [
+      {"l": "en", "a": "1 Louis Vincent St, Jerusalem"},
+      {"l": "he", "a": "לואיס וינסנט 1, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "YMCA Three Arches Hotel"},
+      {"l": "he", "n": "מלון ימקא שלוש הקשתות"}
+    ],
+    "phone": "02-569-2692",
+    "lat": 31.774586,
+    "lng": 35.220790,
+    "rating": "8.5",
+    "distance": "0.8 ק\"מ מהמרכז",
+    "stars": "★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15302010.jpg",
+    "address": [
+      {"l": "en", "a": "26 King David St, Jerusalem"},
+      {"l": "he", "a": "המלך דוד 26, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Leonardo Plaza Hotel Jerusalem"},
+      {"l": "he", "n": "לאונרדו פלאזה ירושלים"}
+    ],
+    "phone": "02-629-8666",
+    "lat": 31.774351,
+    "lng": 35.217342,
+    "rating": "8.1",
+    "distance": "1.2 ק\"מ מהמרכז",
+    "stars": "★★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41551200.jpg",
+    "address": [
+      {"l": "en", "a": "47 King George St, Jerusalem"},
+      {"l": "he", "a": "המלך ג'ורג' 47, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Prima Kings Hotel"},
+      {"l": "he", "n": "מלון פרימה מלכים"}
+    ],
+    "phone": "02-620-1201",
+    "lat": 31.773720,
+    "lng": 35.217734,
+    "rating": "8.2",
+    "distance": "1.3 ק\"מ מהמרכז",
+    "stars": "★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10850321.jpg",
+    "address": [
+      {"l": "en", "a": "60 King George St, Jerusalem"},
+      {"l": "he", "a": "המלך ג'ורג' 60, ירושלים"}
+    ]
+  },
+  {
+    "name": [
+      {"l": "en", "n": "Villa Brown Jerusalem"},
+      {"l": "he", "n": "וילה בראון ירושלים"}
+    ],
+    "phone": "02-501-1555",
+    "lat": 31.783424,
+    "lng": 35.222378,
+    "rating": "8.6",
+    "distance": "0.6 ק\"מ מהמרכז",
+    "stars": "★★★★",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/98555123.jpg",
+    "address": [
+      {"l": "en", "a": "54 HaNevi'im St, Jerusalem"},
+      {"l": "he", "a": "הנביאים 54, ירושלים"}
+    ]
+  },
