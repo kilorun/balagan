@@ -1,4 +1,28 @@
 {
+    "id":"Bat_Galim_Train_Station_Haifa_Israel"
+    ,"name": [
+      {"k": "en", "v": "Bat Galim Train Station, Haifa, 3341231, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת בת גלים"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "HaShmona Train Station, Haifa, 3341231, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חיפה בת גלים, חיפה, 3341231, ישראל"}
+    ]
+    ,"lat": 32.830696
+    ,"lng": 34.981867
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
+{
     "id":"HaShmona_Train_Station_Haifa_Israel"
     ,"name": [
       {"k": "en", "v": "HaShmona Train Station, Haifa, 3341231, Israel"}
@@ -11,6 +35,30 @@
     ]
     ,"lat": 32.8216890
     ,"lng": 34.9965030
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
+{
+    "id":"HaMifrats_Central_Train_Station_Haifa_Israel"
+    ,"name": [
+      {"k": "en", "v": "HaMifrats Central Train Station, Haifa, 3688518, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת מרכזית המפרץ"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "HaMifrats Central Train Station, Haifa, 3341231, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חיפה מרכזית המפרץ, חיפה, 3688518, ישראל"}
+    ]
+    ,"lat": 32.7938923
+    ,"lng": 35.0370881
     ,"rating": 0.0
     ,"distance": [
       {"k": "en", "v": ""}
