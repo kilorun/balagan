@@ -1,4 +1,28 @@
 {
+    "id":"Hof_HaCarmel_Train_Station_Haifa_Israel"
+    ,"name": [
+      {"k": "en", "v": "Hof HaCarmel Train Station, Haifa, 3525422, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חוף הכרמל"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "Hof HaCarmel Train Station, Haifa, 3508508, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חיפה חוף הכרמל, חיפה, 3508508, ישראל"}
+    ]
+    ,"lat": 32.7935407
+    ,"lng": 34.9573267
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
+{
     "id":"Bat_Gallim_Train_Station_Haifa_Israel"
     ,"name": [
       {"k": "en", "v": "Bat Gallim Train Station, Haifa, 3525422, Israel"}
@@ -33,8 +57,8 @@
       {"k": "en", "v": "HaShmona Train Station, Haifa, 3341231, Israel"}
       ,{"k": "he", "v": "תחנת רכבת חיפה מרכז השמונה, חיפה, 3341231, ישראל"}
     ]
-    ,"lat": 32.8216890
-    ,"lng": 34.9965030
+    ,"lat": 32.8223268
+    ,"lng": 34.9971199
     ,"rating": 0.0
     ,"distance": [
       {"k": "en", "v": ""}
@@ -59,6 +83,54 @@
     ]
     ,"lat": 32.7938923
     ,"lng": 35.0370881
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
+{
+    "id":"Kiryat_Haim_Central_Train_Station_Haifa_Israel"
+    ,"name": [
+      {"k": "en", "v": "Kiryat Haim Central Train Station, Haifa, 3688518, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת קרית חיים"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "Kiryat Haim Central Train Station, Haifa, 2630050, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חיפה קרית חיים, חיפה, 2630050, ישראל"}
+    ]
+    ,"lat": 32.8248242
+    ,"lng": 35.0644219
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
+{
+    "id":"Kiryat_Motzkin_Central_Train_Station_Haifa_Israel"
+    ,"name": [
+      {"k": "en", "v": "Kiryat Motzkin Central Train Station, Haifa, 3688518, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת קרית מוצקין"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "Kiryat Motzkin Central Train Station, Haifa, 2630050, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חיפה קרית מוצקין, חיפה, 2630050, ישראל"}
+    ]
+    ,"lat": 32.8332806
+    ,"lng": 35.0703281
     ,"rating": 0.0
     ,"distance": [
       {"k": "en", "v": ""}
