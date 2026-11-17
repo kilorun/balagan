@@ -1,1 +1,24 @@
-{}
+{
+    "id":"HaShmona_Train_Station_Haifa_Israel"
+    ,"name": [
+      {"k": "en", "v": "HaShmona Train Station, Haifa, 3341231, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת מרכז השמונה"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "HaShmona Train Station, Haifa, 3341231, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חיפה מרכז השמונה, חיפה, 3341231, ישראל"}
+    ]
+    ,"lat": 32.8216890
+    ,"lng": 34.9965030
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
