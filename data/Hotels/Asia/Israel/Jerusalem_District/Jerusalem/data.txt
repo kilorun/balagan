@@ -26,7 +26,7 @@
     "rating": "9.2",
     "distance": "0.9 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33055416.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "23 King David St, Jerusalem"},
       {"l": "he", "a": "המלך דוד 23, ירושלים"}
@@ -43,7 +43,7 @@
     "rating": "9.1",
     "distance": "0.7 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31201531.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "26 Gershon Agron St, Jerusalem"},
       {"l": "he", "a": "גרשון אגרון 26, ירושלים"}
@@ -60,7 +60,7 @@
     "rating": "8.9",
     "distance": "0.8 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/25010620.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "11 King Solomon St, Jerusalem"},
       {"l": "he", "a": "שלמה המלך 11, ירושלים"}
@@ -77,7 +77,7 @@
     "rating": "8.8",
     "distance": "1.0 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15015033.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "3 Ze'ev Jabotinsky St, Jerusalem"},
       {"l": "he", "a": "זאב ז'בוטינסקי 3, ירושלים"}
@@ -94,7 +94,7 @@
     "rating": "8.7",
     "distance": "0.9 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/55013000.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "7 King David St, Jerusalem"},
       {"l": "he", "a": "המלך דוד 7, ירושלים"}
@@ -111,7 +111,7 @@
     "rating": "8.3",
     "distance": "1.1 ק\"מ מהמרכז",
     "stars": "★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/44122001.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "39 Keren HaYesod St, Jerusalem"},
       {"l": "he", "a": "קרן היסוד 39, ירושלים"}
@@ -128,7 +128,7 @@
     "rating": "8.5",
     "distance": "0.4 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73318210.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "25 Shamai St, Jerusalem"},
       {"l": "he", "a": "שמאי 25, ירושלים"}
@@ -145,7 +145,7 @@
     "rating": "8.4",
     "distance": "0.3 ק\"מ מהמרכז",
     "stars": "★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11250100.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "4 Yitzhak Elisan St, Jerusalem"},
       {"l": "he", "a": "יצחק אלישר 4, ירושלים"}
@@ -162,7 +162,7 @@
     "rating": "8.3",
     "distance": "0.5 ק\"מ מהמרכז",
     "stars": "★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/30015522.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "41 Hillel St, Jerusalem"},
       {"l": "he", "a": "הלל 41, ירושלים"}
@@ -179,7 +179,7 @@
     "rating": "9.1",
     "distance": "1.8 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22105151.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "1 Louis Vincent St, Jerusalem"},
       {"l": "he", "a": "לואיס וינסנט 1, ירושלים"}
@@ -196,7 +196,7 @@
     "rating": "8.5",
     "distance": "0.8 ק\"מ מהמרכז",
     "stars": "★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15302010.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "26 King David St, Jerusalem"},
       {"l": "he", "a": "המלך דוד 26, ירושלים"}
@@ -213,7 +213,7 @@
     "rating": "8.1",
     "distance": "1.2 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41551200.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "47 King George St, Jerusalem"},
       {"l": "he", "a": "המלך ג'ורג' 47, ירושלים"}
@@ -230,7 +230,7 @@
     "rating": "8.2",
     "distance": "1.3 ק\"מ מהמרכז",
     "stars": "★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10850321.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "60 King George St, Jerusalem"},
       {"l": "he", "a": "המלך ג'ורג' 60, ירושלים"}
@@ -247,7 +247,7 @@
     "rating": "8.6",
     "distance": "0.6 ק\"מ מהמרכז",
     "stars": "★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/98555123.jpg",
+    "image": "",
     "address": [
       {"l": "en", "a": "54 HaNevi'im St, Jerusalem"},
       {"l": "he", "a": "הנביאים 54, ירושלים"}
