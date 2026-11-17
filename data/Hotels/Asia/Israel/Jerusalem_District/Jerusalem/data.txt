@@ -26,7 +26,7 @@
     "rating": "9.2",
     "distance": "0.9 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazE_FM3lnQ7qSrYU0JLxfSum0WdMjT2QaxXNuu3AsxA&s=10",
     "address": [
       {"l": "en", "a": "23 King David St, Jerusalem"},
       {"l": "he", "a": "המלך דוד 23, ירושלים"}
