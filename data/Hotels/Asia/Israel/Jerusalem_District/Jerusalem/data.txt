@@ -9,7 +9,7 @@
     "rating": "9.0",
     "distance": "1.2 ק\"מ מהמרכז",
     "stars": "★★★★★",
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107053530.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_kiFPpVjAL5YGeoxPxQD8aP1tJDdUH_f8U9q_zsWwA",
     "address": [
       {"l": "en", "a": "3 Emek Refaim St, Jerusalem"},
       {"l": "he", "a": "עמק רפאים 3, ירושלים"}
