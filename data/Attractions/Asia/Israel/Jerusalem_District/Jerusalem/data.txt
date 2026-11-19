@@ -6,7 +6,7 @@
     ]
     ,"phone": [
         {"k": "phone", "v": "aaaaaa"}
-        {"k": "smartphone", "v": "ccccc"}
+        ,{"k": "smartphone", "v": "ccccc"}
         ,{"k": "whatsapp", "v": "bbbbb"}
     ]
     ,"address": [
