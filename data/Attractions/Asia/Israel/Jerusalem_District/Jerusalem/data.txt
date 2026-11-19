@@ -4,10 +4,16 @@
       {"k": "en", "v": "Abba Hillel Silver Street 57, Haifa, 3269702, Israel"}
       ,{"k": "he", "v": "אבא הלל סילבר 57"}
     ]
-    ,"phone": [{"k": "w", "v": "770"}]
+    ,"phone": [
+        {"k": "phone", "v": "aaaaaa"}
+        {"k": "smartphone", "v": "ccccc"}
+        ,{"k": "whatsapp", "v": "bbbbb"}
+    ]
     ,"address": [
       {"k": "en", "v": "Abba Hillel Silver Street 57 Haifa, 3269702, Israel"}
       ,{"k": "he", "v": "אבא הלל סילבר 57, חיפה, 3269702, ישראל"}
+      ,{"k": "googlemaps", "v": "Abba Hillel Silver Street 57 Haifa, Israel"}
+      ,{"k": "waze", "v": "Abba Hillel Silver Street 57| Haifa, Israel"}
     ]
     ,"lat": 32.7897737
     ,"lng": 35.0113136
