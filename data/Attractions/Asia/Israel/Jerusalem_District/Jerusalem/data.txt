@@ -5,9 +5,9 @@
       ,{"k": "he", "v": "אבא הלל סילבר 57"}
     ]
     ,"phone": [
-        {"k": "phone", "v": "aaaaaa"}
-        ,{"k": "smartphone", "v": "bbbbb"}
-        ,{"k": "whatsapp", "v": "ccccc"}
+        {"k": "phone", "v": "+972545556641"}
+        ,{"k": "smartphone", "v": "+972545556642"}
+        ,{"k": "whatsapp", "v": "+972545556643"}
     ]
     ,"address": [
       {"k": "en", "v": "Abba Hillel Silver Street 57 Haifa, 3269702, Israel"}
