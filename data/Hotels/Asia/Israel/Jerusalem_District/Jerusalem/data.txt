@@ -47,3 +47,27 @@
       {"k": "booking", "v": "https://www.booking.com/hotel/il/waldorf-astoria-jerusalem.html?&checkin=2026-11-17&checkout=2026-11-18"}
     ]
 },
+{
+    "id":"Mamilla"
+    ,"name": [
+      {"k": "en", "v": "Mamilla"}
+      ,{"k": "he", "v": "ממילא"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "11 King Solomon Street, Jerusalem, 94182, Israel"}
+      ,{"k": "he", "v": "המלך שלמה 11, ירושלים, 94182, ישראל"}
+    ]
+    ,"lat": 31.778308443122242
+    ,"lng": 35.223606525307076
+    ,"rating": 8.6
+    ,"distance": [
+      {"k": "en", "v": "350 m from downtown"}
+      ,{"k": "he", "v": "350 מ' מהמרכז"}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_pEfhFFp0tFSOaaRh3UlQSk4Zf_CMB0cvS428Z9Dlw&s=10"
+    ,"web":[
+      {"k": "booking", "v": "https://www.booking.com/hotel/il/mamilla.html?checkin=2026-11-17&checkout=2026-11-18"}
+    ]
+},
