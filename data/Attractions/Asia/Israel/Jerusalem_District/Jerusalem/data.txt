@@ -19,8 +19,8 @@
     ,"lng": 35.0113136
     ,"rating": 0.0
     ,"distance": [
-      {"k": "en", "v": ""}
-      ,{"k": "he", "v": ""}
+      {"k": "en", "v": "aaaa 222"}
+      ,{"k": "he", "v": "בבבב 333"}
     ]
     ,"stars": "5"
     ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx-lT8HKvrssjgDSF9atXtzZNl1L4xV5Ep6ZVOTDCHA&s=10"
