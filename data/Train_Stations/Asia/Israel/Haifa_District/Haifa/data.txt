@@ -166,3 +166,27 @@
       {"k": "", "v": ""}
     ]
 },
+{
+    "id":"Akko_Train_Station_Israel"
+    ,"name": [
+      {"k": "en", "v": "Akko Train Station, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת אכו"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "Akko Train Station, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת אכו, ישראל"}
+    ]
+    ,"lat": 32.9283665841041
+    ,"lng": 35.082982596510654
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
