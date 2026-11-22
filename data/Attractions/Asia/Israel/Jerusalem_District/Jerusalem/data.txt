@@ -53,6 +53,9 @@
     ]
     ,"www": [
       {"k": "en", "v": "https://www.imj.org.il/"}
+      ,{"k": "en", "v": "https://www.itraveljerusalem.com/he/attraction/the-israel-museum"}
+      ,{"k": "en", "v": "https://www.jerusalem.muni.il/he/experience/sade-site/museums/place?id=115781"}
+      ,{"k": "wiki", "v": "https://en.wikipedia.org/wiki/Israel_Museum"}
     ]
     ,"lat": 31.77230619599335
     ,"lng": 35.204100325306364
