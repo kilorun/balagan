@@ -95,6 +95,30 @@
     ]
 },
 {
+    "id":"Houtzot_HaMifratz_Train_Station_Haifa_Israel"
+    ,"name": [
+      {"k": "en", "v": "Houtzot HaMifratz Train Station, Haifa, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חוצות המפרץ"}
+    ]
+    ,"phone": [{"k": "w", "v": "770"}]
+    ,"address": [
+      {"k": "en", "v": "HaMifrats Central Train Station, Haifa, Israel"}
+      ,{"k": "he", "v": "תחנת רכבת חיפה חוצות המפרץ, חיפה, ישראל"}
+    ]
+    ,"lat": 32.81034555998788
+    ,"lng": 35.054521343270395
+    ,"rating": 0.0
+    ,"distance": [
+      {"k": "en", "v": ""}
+      ,{"k": "he", "v": ""}
+    ]
+    ,"stars": "5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PB1_gr2ITJHZZLePB7v2f1j-Ys2P9nrNL9WXJhwUKA&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
+{
     "id":"Kiryat_Haim_Central_Train_Station_Haifa_Israel"
     ,"name": [
       {"k": "en", "v": "Kiryat Haim Central Train Station, Haifa, 3688518, Israel"}
