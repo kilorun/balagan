@@ -16,7 +16,7 @@
       ,{"k": "waze", "v": "Western Wall| Jerusalem"}
     ]
     ,"www": [
-      {"k": "en", "v": "aaaa 222"}
+      {"k": "en", "v": "https://thekotel.org/he/"}
       ,{"k": "he", "v": "בבבב 333"}
     ]
     ,"lat": 31.776910407566685
