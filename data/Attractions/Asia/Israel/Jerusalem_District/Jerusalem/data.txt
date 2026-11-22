@@ -4,10 +4,13 @@
       {"k": "en", "v": "Western Wall, Jerusalem, Israel"}
       ,{"k": "he", "v": "הכותל המערבי ומנהרות הכותל"}
     ]
-    ,"phone": [
+    ,"phone1": [
         {"k": "phone", "v": "+972026271333"}
         ,{"k": "smartphone", "v": "+972545556642"}
         ,{"k": "whatsapp", "v": "+972545556643"}
+    ]
+    ,"phone": [
+        {"k": "phone", "v": "+972026271333"}
     ]
     ,"address": [
       {"k": "en", "v": "Western Wall, Jerusalem, Israel"}
