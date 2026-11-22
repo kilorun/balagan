@@ -5,7 +5,7 @@
       ,{"k": "he", "v": "הכותל המערבי ומנהרות הכותל"}
     ]
     ,"phone": [
-        {"k": "phone", "v": "+972545556641"}
+        {"k": "phone", "v": "+972026271333"}
         ,{"k": "smartphone", "v": "+972545556642"}
         ,{"k": "whatsapp", "v": "+972545556643"}
     ]
@@ -14,6 +14,9 @@
       ,{"k": "he", "v": "הכותל המערבי, ירושלים, ישראל"}
       ,{"k": "googlemaps", "v": "Western Wall, Jerusalem, Israel"}
       ,{"k": "waze", "v": "Western Wall| Jerusalem, Israel"}
+    ]
+    ,"web": [
+      {"k": "en", "v": "https://thekotel.org/"}
     ]
     ,"lat": 31.776910407566685
     ,"lng": 35.23447630996197
