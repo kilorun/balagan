@@ -2,7 +2,7 @@
     "id":"Western_Wall_Jerusalem_Israel"
     ,"name": [
       {"k": "en", "v": "Western Wall, Jerusalem, Israel"}
-      ,{"k": "he", "v": "הכותל המערבי ומנהרות הכותל"}
+      ,{"k": "he", "v": "הכותל המערבי"}
     ]
     ,"phone1": [
         {"k": "phone", "v": "+972026271333"}
