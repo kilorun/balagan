@@ -15,7 +15,7 @@
       ,{"k": "googlemaps", "v": "Western Wall, Jerusalem, Israel"}
       ,{"k": "waze", "v": "Western Wall| Jerusalem"}
     ]
-    ,"web": [
+    ,"www": [
       {"k": "en", "v": "aaaa 222"}
       ,{"k": "he", "v": "בבבב 333"}
     ]
