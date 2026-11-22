@@ -13,10 +13,10 @@
       {"k": "en", "v": "Western Wall, Jerusalem, Israel"}
       ,{"k": "he", "v": "הכותל המערבי, ירושלים, ישראל"}
       ,{"k": "googlemaps", "v": "Western Wall, Jerusalem, Israel"}
-      ,{"k": "waze", "v": "770"}
+      ,{"k": "waze", "v": "Western Wall| Jerusalem"}
     ]
     ,"web": [
-      {"k": "en", "v": "Western Wall, Jerusalem, Israel"}
+      {"k":"en","v":"770"}
     ]
     ,"lat": 31.776910407566685
     ,"lng": 35.23447630996197
