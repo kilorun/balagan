@@ -70,3 +70,34 @@
       {"k": "", "v": ""}
     ]
 },
+{
+    "id":"Mahaneh_Yehudah_Market_Jerusalem_Israel"
+    ,"name": [
+      {"k": "en", "v": "Mahaneh Yehudah Market, Jerusalem, Israel"}
+      ,{"k": "he", "v": "שוק מחנה יהודה"}
+    ]
+    ,"phone": []
+    ,"address": [
+      {"k": "en", "v": "Agripas St 90, Jerusalem, Israel"}
+      ,{"k": "he", "v": "אגריפס 90, ירושלים, ישראל"}
+      ,{"k": "googlemaps", "v": "Mahaneh Yehudah Market, Agripas St 90, Jerusalem, Israel"}
+      ,{"k": "waze", "v": "Agripas St 90| Jerusalem"}
+      ,{"k": "moovit", "v": "https://moovitapp.com/tripplan/israel-1/poi/Mahane%20Yehuda%20Market/t/en?customerId=4908&ref=16&tll=31.784894_35.212402"}
+    ]
+    ,"www": [
+      {"k": "en", "v": "https://www.machne.co.il/"}
+      ,{"k": "wiki", "v": "https://en.wikipedia.org/wiki/Mahane_Yehuda_Market"}
+    ]
+    ,"lat": 31.788791
+    ,"lng": 35.2038551
+    ,"rating": 4.6
+    ,"distance": [
+      {"k": "en", "v": "aaaa 222"}
+      ,{"k": "he", "v": "בבבב 333"}
+    ]
+    ,"stars": "4.5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIt3xLqPdLyWiKp0vhKO5uhfa7tMaXGwHfgocn1X0gbQ&s=10"
+    ,"web":[
+      {"k": "", "v": ""}
+    ]
+},
