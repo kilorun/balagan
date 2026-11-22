@@ -16,7 +16,7 @@
       ,{"k": "waze", "v": "Western Wall| Jerusalem, Israel"}
     ]
     ,"web": [
-      {"k": "en", "v": "https:_thekotel.org_"}
+      {"k": "en", "v": "https-_thekotel.org_"}
     ]
     ,"lat": 31.776910407566685
     ,"lng": 35.23447630996197
