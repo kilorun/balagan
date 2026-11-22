@@ -14,6 +14,7 @@
       ,{"k": "he", "v": "הכותל המערבי, ירושלים, ישראל"}
       ,{"k": "googlemaps", "v": "Western Wall, Jerusalem, Israel"}
       ,{"k": "waze", "v": "Western Wall| Jerusalem"}
+      ,{"k": "moovit", "v": "https://moovitapp.com/tripplan/israel-1/poi/Western%20Wall/t/en?customerId=4908&ref=16&tll=31.776765_35.234508"}
     ]
     ,"www": [
       {"k": "en", "v": "https://thekotel.org/he/"}
