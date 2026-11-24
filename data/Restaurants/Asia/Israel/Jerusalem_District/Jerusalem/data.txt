@@ -29,7 +29,4 @@
     ]
     ,"stars": "4.5"
     ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6VqVYlERBcTmTS1_6zFkGaaJoRXZn8VC66ChknNu1A&s=10"
-    ,"web":[
-      {"k": "", "v": ""}
-    ]
 },
