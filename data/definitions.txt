@@ -3,46 +3,60 @@
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Hotels/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
     ,"data":[]
+    , "icon":"🏠"
+    , "title": [{"k": "en", "v": "Hotels"},{"k": "he", "v": "מלונות"}]
 },
 {
     "what": "Restaurants"
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Restaurants/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
     ,"data":[]
+    , "icon":"🍽️"
+    , "title": [{"k": "en", "v": "Restaurants"},{"k": "he", "v": "מסעדות"}]
 },
 {
     "what": "Massages"
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Massages/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
     ,"data":[]
+    , "icon":"💆"
+    , "title": [{"k": "en", "v": "Massages"},{"k": "he", "v": "ספא"}]
 },
 {
     "what": "Toilets"
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Toilets/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
     ,"data":[]
+    , "icon":"🚽"
+    , "title": [{"k": "en", "v": "Toilets"},{"k": "he", "v": "שירותים"}]
 },
 {
     "what": "Attractions"
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Attractions/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
     ,"data":[]
+    , "icon":"🎡"
+    , "title": [{"k": "en", "v": "Attractions"},{"k": "he", "v": "אטרקציות"}]
 },
 {
     "what": "Hotels_By_Hours"
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Hotels_By_Hours/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
     ,"data":[]
+    , "icon":"🏚️"
+    , "title": [{"k": "en", "v": "Hotels_By_Hours"},{"k": "he", "v": "מקום אירוח"}]
 },
 {
     "what": "Attractions"
     ,"where": "Asia|Israel|Haifa_District|Haifa"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Attractions/Asia/Israel/Haifa_District/Haifa/data.txt"
     ,"data":[]
+    , "icon":"🎡"
 },
 {
     "what": "Train_Stations"
     ,"where": "Asia|Israel|Haifa_District|Haifa"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Train_Stations/Asia/Israel/Haifa_District/Haifa/data.txt"
     ,"data":[]
+    , "icon":"🚡"
 },
