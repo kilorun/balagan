@@ -31,9 +31,6 @@
     ]
     ,"stars": "5"
     ,"image": "https://cdn.britannica.com/38/147838-050-534C2986/Western-Wall-Jerusalem-2009.jpg"
-    ,"web":[
-      {"k": "", "v": ""}
-    ]
 },
 {
     "id":"Israel_Museum_Jerusalem_Israel"
@@ -66,9 +63,6 @@
     ]
     ,"stars": "4.5"
     ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6VqVYlERBcTmTS1_6zFkGaaJoRXZn8VC66ChknNu1A&s=10"
-    ,"web":[
-      {"k": "", "v": ""}
-    ]
 },
 {
     "id":"Mahaneh_Yehudah_Market_Jerusalem_Israel"
@@ -97,9 +91,6 @@
     ]
     ,"stars": "4.5"
     ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIt3xLqPdLyWiKp0vhKO5uhfa7tMaXGwHfgocn1X0gbQ&s=10"
-    ,"web":[
-      {"k": "", "v": ""}
-    ]
 },
 {
     "id":"The_First_Station_Jerusalem_Israel"
@@ -128,8 +119,5 @@
     ]
     ,"stars": "4.4"
     ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYSQ2EH6roK1KxXC2ytAlIswJ27WBcb6tZ5eFCH7jWQ&s=10"
-    ,"web":[
-      {"k": "", "v": ""}
-    ]
 },
 
