@@ -1,0 +1,32 @@
+{
+    "id":"Israel_Museum_Jerusalem_Israel"
+    ,"name": [
+      {"k": "en", "v": "Israel Museum, Jerusalem, Israel"}
+      ,{"k": "he", "v": "מוזיאון ישראל"}
+    ]
+    ,"phone": [
+        {"k": "phone", "v": "+972026708811"}
+    ]
+    ,"address": [
+      {"k": "en", "v": "Derech Ruppin 11, Jerusalem, Israel"}
+      ,{"k": "he", "v": "מוזיאון ישראל, ירושלים, ישראל"}
+      ,{"k": "googlemaps", "v": "Derech Ruppin 11, Jerusalem, Israel"}
+      ,{"k": "waze", "v": "Derech Ruppin 11| Jerusalem"}
+      ,{"k": "moovit", "v": "https://moovitapp.com/tripplan/israel-1/poi/The%20Israel%20Museum/t/en?tll=31.77219_35.20396"}
+    ]
+    ,"www": [
+      {"k": "en", "v": "https://www.imj.org.il/"}
+      ,{"k": "en", "v": "https://www.itraveljerusalem.com/he/attraction/the-israel-museum"}
+      ,{"k": "en", "v": "https://www.jerusalem.muni.il/he/experience/sade-site/museums/place?id=115781"}
+      ,{"k": "wiki", "v": "https://en.wikipedia.org/wiki/Israel_Museum"}
+    ]
+    ,"lat": 31.77230619599335
+    ,"lng": 35.204100325306364
+    ,"rating": 4.7
+    ,"distance": [
+      {"k": "en", "v": "aaaa 222"}
+      ,{"k": "he", "v": "בבבב 333"}
+    ]
+    ,"stars": "4.5"
+    ,"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6VqVYlERBcTmTS1_6zFkGaaJoRXZn8VC66ChknNu1A&s=10"
+},
