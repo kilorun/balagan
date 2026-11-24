@@ -5,6 +5,13 @@
     ,"data":[]
 },
 {
+    "what": "Restaurants"
+    ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
+    ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Restaurants/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
+    ,"data":[]
+},
+
+{
     "what": "Attractions"
     ,"where": "Asia|Israel|Jerusalem_District|Jerusalem"
     ,"url": "https://raw.githubusercontent.com/kilorun/balagan/refs/heads/main/data/Attractions/Asia/Israel/Jerusalem_District/Jerusalem/data.txt"
